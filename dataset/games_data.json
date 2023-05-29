@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Grand Theft Auto 5",
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co66qs.png",
+    "description":"Experience the thrilling criminal underworld of Los Santos in this action-packed open-world adventure.",
+    "genre": "Action",
+    "return_days": 4,
+    "rating": 4.9,
+    "copies": 10,
+    "age_restricted": true
+  },
+  {
+    "name": "FIFA 23",
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4zw5.png",
+    "description":"Take the field and immerse yourself in the realistic soccer gameplay of FIFA 23, featuring stunning graphics and authentic player movements.",
+    "genre": "Sports",
+    "return_days": 7,
+    "rating": 4.7,
+    "copies": 5,
+    "age_restricted": false
+  },
+  {
+    "name": "Crash Bandicoot",
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co555l.png",
+    "description":"Join Crash Bandicoot on his wacky adventures as he battles enemies and collects Wumpa fruit in this classic puzzle-platformer.",
+    "genre": "Puzzle",
+    "return_days": 2,
+    "rating": 3.7,
+    "copies": 3,
+    "age_restricted": false
+  },
+  {
+    "name": "Rocket League",
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5w0w.png",
+    "description": "Experience high-octane, fast-paced soccer with rocket-powered cars in this unique and thrilling sports game.",
+    "genre": "Sports",
+    "return_days": 5,
+    "rating": 4.2,
+    "copies": 7,
+    "age_restricted": false
+  },
+  {
+    "name": "COD: Black Ops III",
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co20yw.png",
+    "description": "Engage in intense first-person shooter action in the futuristic setting of Call of Duty: Black Ops III. With a gripping campaign mode, thrilling multiplayer battles, and a robust zombie mode, this installment in the iconic Call of Duty franchise offers a diverse and adrenaline-pumping gameplay experience. Unleash advanced weaponry, tactical abilities, and engage in high-stakes missions as you navigate through a complex narrative. Prepare for intense combat and immersive gameplay in this critically acclaimed title.",
+    "genre": "Combat",
+    "return_days": 5,
+    "rating": 4.7,
+    "copies": 8,
+    "age_restricted": true
+  },  
+  {
+    "name": "COD: Modern Warfare",
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rsg.png",
+    "description": "Immerse yourself in a realistic and intense modern military shooter experience with a gripping single-player campaign and thrilling multiplayer modes.",
+    "genre": "Combat",
+    "return_days": 3,
+    "rating": 3.2,
+    "copies": 8,
+    "age_restricted": true
+  },
+  {
+    "name": "FIFA 22",
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3dsm.png",
+    "description": "Experience the excitement of realistic football gameplay with enhanced graphics, improved player animations, and updated team rosters in the latest installment of the FIFA franchise.",
+    "genre": "Sports",
+    "return_days": 7,
+    "rating": 4.3,
+    "copies": 6,
+    "age_restricted": false
+  },
+  {
+    "name": "FIFA 21",
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3wm2.png",
+    "description": "Immerse yourself in the world of professional football with FIFA 21. Enjoy realistic gameplay, stunning graphics, and an extensive selection of teams and players as you compete in thrilling matches and build your ultimate football dynasty.",
+    "genre": "Sports",
+    "return_days": 7,
+    "rating": 3.2,
+    "copies": 8,
+    "age_restricted": false
+  },
+  {
+    "name": "FIFA 20",
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co206p.png",
+    "description": "Experience the thrill of the beautiful game with FIFA 20. Play as your favorite football teams and players, showcase your skills on the pitch, and compete in exciting matches against friends or AI opponents. With realistic gameplay and immersive graphics, FIFA 20 offers an authentic football gaming experience.",
+    "genre": "Sports",
+    "return_days": 7,
+    "rating": 4.0,
+    "copies": 6,
+    "age_restricted": false
+  },
+  {
+    "name": "The Walking Dead",
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1v9y.png",
+    "description": "Immerse yourself in the post-apocalyptic world of The Walking Dead. Survive the zombie-infested landscapes, make tough choices, and interact with a cast of compelling characters. This narrative-driven game offers a gripping story filled with suspense, drama, and the constant threat of the undead.",
+    "genre": "Adventure",
+    "return_days": 3,
+    "rating": 4.5,
+    "copies": 8,
+    "age_restricted": true
+  },
+  {
+    "name": "Fortnite",
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2ekt.png",
+    "description": "Join the battle royale phenomenon and experience the thrill of fast-paced, competitive gameplay. Build, shoot, and strategize your way to victory in this online multiplayer extravaganza. With regular updates, exciting events, and a vibrant community, Fortnite offers endless hours of action-packed fun.",
+    "genre": "Action",
+    "return_days": 7,
+    "rating": 5.0,
+    "copies": 12,
+    "age_restricted": false
+  },
+  {
+    "name": "Grand Theft Auto 4",
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2lbv.png",
+    "description": "Immerse yourself in the gritty and sprawling open-world of Liberty City. Follow the gripping story of Niko Bellic as he navigates a life of crime, corruption, and betrayal. With a vast array of missions, activities, and a realistic urban setting, Grand Theft Auto 4 delivers an immersive and action-packed gaming experience.",
+    "genre": "Action",
+    "return_days": 5,
+    "rating": 4.1,
+    "copies": 8,
+    "age_restricted": true
+  },
+  {
+    "name": "Super Mario 64",
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6cl1.png",
+    "description": "Embark on a classic and iconic 3D platforming adventure with everyone's favorite plumber, Mario. Explore the vast and imaginative worlds of Peach's Castle as you collect Power Stars, defeat Bowser, and rescue Princess Peach. With its innovative gameplay mechanics, charming characters, and memorable levels, Super Mario 64 is a timeless masterpiece in the world of gaming.",
+    "genre": "Adventure",
+    "return_days": 3,
+    "rating": 4.9,
+    "copies": 12,
+    "age_restricted": false
+  },
+  {
+    "name": "Reader Rabbit",
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4b1s.png",
+    "description": "Join Reader Rabbit on a learning adventure filled with interactive activities, engaging puzzles, and captivating stories. Designed for young learners, this educational game helps develop essential skills such as reading, spelling, and math in a fun and entertaining way. Embark on a journey of knowledge with Reader Rabbit!",
+    "genre": "Educational",
+    "return_days": 7,
+    "rating": 3.0,
+    "copies": 8,
+    "age_restricted": false
+  },
+  {
+    "name": "The Sims 4",
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3h3l.png",
+    "description": "Experience the joy of controlling virtual lives in The Sims 4. Build and design homes, shape the personalities and relationships of your Sims, and guide them through various life stages and careers. With its open-ended gameplay and endless possibilities, The Sims 4 offers a captivating simulation experience.",
+    "genre": "Simulation",
+    "return_days": 3,
+    "rating": 4.5,
+    "copies": 8,
+    "age_restricted": false
+  },
+  {
+    "name": "The Elder Scrolls V",
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1tnw.png",
+    "description": "Experience an epic open-world RPG adventure in The Elder Scrolls V: Skyrim. Immerse yourself in a vast and immersive fantasy world, filled with quests, exploration, and intense battles. Customize your character, develop unique abilities, and shape the destiny of the realm. Prepare for a legendary journey in Skyrim!",
+    "genre": "RPG",
+    "return_days": 7,
+    "rating": 3.8,
+    "copies": 12,
+    "age_restricted": true
+  },
+  {
+    "name": "Need for Speed",
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co20a5.png",
+    "description": "Take part in high-stakes street racing in Need for Speed: Most Wanted. Test your driving skills, evade the police, and compete against other notorious racers to become the most wanted driver in the city. With a vast open-world environment, a wide selection of cars, and thrilling races, this game offers an adrenaline-fueled racing experience.",
+    "genre": "Racing",
+    "return_days": 5,
+    "rating": 3.7,
+    "copies": 6,
+    "age_restricted": false
+  },
+  {
+    "name": "Tetris",
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4hxx.png",
+    "description": "Challenge your puzzle-solving skills with the iconic game of Tetris. Arrange falling blocks to create complete lines and clear them from the screen. With its addictive gameplay, simple mechanics, and endless possibilities, Tetris has stood the test of time as a beloved puzzle classic. Dive into the world of Tetris and experience the thrill of strategic block placement!",
+    "genre": "Puzzle",
+    "return_days": 3,
+    "rating": 4.4,
+    "copies": 15,
+    "age_restricted": false
+  },
+  {
+    "name": "Minecraft",
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2b4k.png",
+    "description": "Immerse yourself in the blocky world of Minecraft, where you can build, explore, and survive. Mine resources, craft tools and items, and construct impressive structures. Whether you choose to embark on solo adventures or join forces with friends in multiplayer mode, Minecraft offers endless possibilities and creativity. Unleash your imagination and shape your own virtual world in Minecraft!",
+    "genre": "Adventure",
+    "return_days": 7,
+    "rating": 4.8,
+    "copies": 10,
+    "age_restricted": false
+  },
+  {
+    "name": "Mario Kart 8 Deluxe",
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co213p.png",
+    "description": "Get ready for fast-paced kart racing action in Mario Kart 8 Deluxe. Join Mario and his friends in thrilling races across colorful and creative tracks. Use power-ups, perform tricks, and compete against players from around the world. With a variety of characters, vehicles, and multiplayer modes, Mario Kart 8 Deluxe offers endless fun for racing enthusiasts of all ages.",
+    "genre": "Racing",
+    "return_days": 3,
+    "rating": 4.8,
+    "copies": 4,
+    "age_restricted": false
+  },
+  {
+    "name": "Portal 2",
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rs4.png",
+    "description": "Embark on a mind-bending puzzle-solving adventure in Portal 2. Test your wits and spatial reasoning as you navigate through a series of challenging test chambers using the portal gun. Manipulate space, gravity, and objects to overcome obstacles and outsmart the AI antagonist. With its clever puzzles, engaging story, and cooperative gameplay, Portal 2 offers a unique and memorable gaming experience.",
+    "genre": "Puzzle",
+    "return_days": 4,
+    "rating": 4.9,
+    "copies": 5,
+    "age_restricted": false
+  },
+  {
+    "name": "Detroit: Become Human",
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6j7u.png",
+    "description": "In Detroit: Become Human, you explore a futuristic world where androids coexist with humans. As you play through the gripping narrative, your choices shape the destiny of three android protagonists and determine the fate of the entire city. With its stunning visuals, immersive storytelling, and branching paths, Detroit: Become Human offers a compelling and thought-provoking interactive adventure.",
+    "genre": "Adventure",
+    "return_days": 7,
+    "rating": 4.7,
+    "copies": 3,
+    "age_restricted": true
+  },
+  {
+    "name": "Euro Truck Simulator 2",
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3qeo.png",
+    "description": "Embark on a trucking adventure across Europe in Euro Truck Simulator 2. Take on the role of a truck driver, deliver various cargoes, and explore realistic landscapes and cities. With its detailed truck physics, customizable vehicles, and immersive gameplay, Euro Truck Simulator 2 offers a realistic simulation of the trucking industry.",
+    "genre": "Simulation",
+    "return_days": 5,
+    "rating": 2.8,
+    "copies": 6,
+    "age_restricted": false
+  },
+  {
+    "name": "Microsoft Flight Simulator",
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2dqk.png",
+    "description": "Take to the skies and experience the thrill of flying in Microsoft Flight Simulator. With its cutting-edge technology and realistic graphics, this simulation game offers a stunning recreation of real-world landscapes, airports, and aircraft. Whether you're a casual flyer or a seasoned aviator, Microsoft Flight Simulator provides an immersive and visually impressive flight experience.",
+    "genre": "Simulation",
+    "return_days": 7,
+    "rating": 4.8,
+    "copies": 4,
+    "age_restricted": false
+  }  
+]
