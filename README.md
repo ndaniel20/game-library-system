@@ -14,13 +14,15 @@ The Game Library System is a Java-based application that allows users to manage 
 
 - Java 8 or above
 - MongoDB database
+- JSON Simple
 
 ## Usage
 
 1. Clone the repository: `git clone https://github.com/ndaniel20/game-library-system.git`
 2. Open the project in your preferred Java IDE.
-3. If you want to set up your own database, add your mongoDB credentials on the connectDatabase.java file.
-4. Run the LoginUI.java file to get started
-5. Register a new user account or log in with existing credentials.
-6. Start managing your game library by searching for new games, and loaning or returning games.
-7. Utilize the search and sorting functionalities to find specific games or organize your collection.
+3. Download the jar files from the JAR_Files folder and import them to the referenced library
+4. If you want to set up your own database, add your mongoDB credentials on the connectDatabase.java file.
+5. Run the LoginUI.java file to get started
+6. Register a new user account or log in with existing credentials.
+7. Start managing your game library by searching for new games, and loaning or returning games.
+8. Utilize the search and sorting functionalities to find specific games or organize your collection.
