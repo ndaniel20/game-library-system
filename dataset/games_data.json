@@ -40,7 +40,7 @@
     "age_restricted": false
   },
   {
-    "name": "COD: Black Ops III",
+    "name": "Black Ops III",
     "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co20yw.png",
     "description": "Engage in intense first-person shooter action in the futuristic setting of Call of Duty: Black Ops III. With a gripping campaign mode, thrilling multiplayer battles, and a robust zombie mode, this installment in the iconic Call of Duty franchise offers a diverse and adrenaline-pumping gameplay experience. Unleash advanced weaponry, tactical abilities, and engage in high-stakes missions as you navigate through a complex narrative. Prepare for intense combat and immersive gameplay in this critically acclaimed title.",
     "genre": "Combat",
@@ -50,7 +50,7 @@
     "age_restricted": true
   },  
   {
-    "name": "COD: Modern Warfare",
+    "name": "Modern Warfare",
     "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rsg.png",
     "description": "Immerse yourself in a realistic and intense modern military shooter experience with a gripping single-player campaign and thrilling multiplayer modes.",
     "genre": "Combat",
@@ -210,7 +210,7 @@
     "age_restricted": false
   },
   {
-    "name": "Detroit: Become Human",
+    "name": "Detroit Become Human",
     "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6j7u.png",
     "description": "In Detroit: Become Human, you explore a futuristic world where androids coexist with humans. As you play through the gripping narrative, your choices shape the destiny of three android protagonists and determine the fate of the entire city. With its stunning visuals, immersive storytelling, and branching paths, Detroit: Become Human offers a compelling and thought-provoking interactive adventure.",
     "genre": "Adventure",
@@ -220,7 +220,7 @@
     "age_restricted": true
   },
   {
-    "name": "Euro Truck Simulator 2",
+    "name": "Euro Truck Simulator",
     "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3qeo.png",
     "description": "Embark on a trucking adventure across Europe in Euro Truck Simulator 2. Take on the role of a truck driver, deliver various cargoes, and explore realistic landscapes and cities. With its detailed truck physics, customizable vehicles, and immersive gameplay, Euro Truck Simulator 2 offers a realistic simulation of the trucking industry.",
     "genre": "Simulation",
@@ -230,7 +230,7 @@
     "age_restricted": false
   },
   {
-    "name": "Microsoft Flight Simulator",
+    "name": "Flight Simulator",
     "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2dqk.png",
     "description": "Take to the skies and experience the thrill of flying in Microsoft Flight Simulator. With its cutting-edge technology and realistic graphics, this simulation game offers a stunning recreation of real-world landscapes, airports, and aircraft. Whether you're a casual flyer or a seasoned aviator, Microsoft Flight Simulator provides an immersive and visually impressive flight experience.",
     "genre": "Simulation",
@@ -238,5 +238,215 @@
     "rating": 4.8,
     "copies": 4,
     "age_restricted": false
-  }  
+  },
+  {
+    "name": "Uncharted 4",
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1r7h.png",
+    "description": "Join Nathan Drake on his final adventure to uncover hidden treasures and face dangerous enemies.",
+    "genre": "Action",
+    "return_days": 5,
+    "rating": 4.7,
+    "copies": 15,
+    "age_restricted": false
+  },
+  {
+    "name": "Assassin's Creed",
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2ed3.png",
+    "description": "Embark on an epic Viking journey in the ninth century as you lead your clan to conquer new lands.",
+    "genre": "Action",
+    "return_days": 7,
+    "rating": 4.8,
+    "copies": 10,
+    "age_restricted": true
+  },
+  {
+    "name": "Call of Duty: Warzone",
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co20o8.png",
+    "description": "Engage in intense battle royale combat in a massive online multiplayer experience.",
+    "genre": "Action",
+    "return_days": 3,
+    "rating": 4.5,
+    "copies": 20,
+    "age_restricted": true
+  },
+  {
+    "name": "The Witness",
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3hih.png",
+    "description": "Explore a beautiful open-world island filled with intricate puzzles and mysterious challenges.",
+    "genre": "Puzzle",
+    "return_days": 5,
+    "rating": 3.3,
+    "copies": 15,
+    "age_restricted": false
+  },
+  {
+    "name": "Monument Valley",
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2zw6.png",
+    "description": "Explore surreal architectural landscapes and solve optical illusion-based puzzles in this visually stunning game.",
+    "genre": "Puzzle",
+    "return_days": 4,
+    "rating": 2.1,
+    "copies": 12,
+    "age_restricted": false
+  },
+  {
+    "name": "Baba Is You",
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2hqt.png",
+    "description": "Manipulate the game's rules by rearranging words and solve increasingly complex puzzles in this unique puzzle game.",
+    "genre": "Puzzle",
+    "return_days": 5,
+    "rating": 4.3,
+    "copies": 8,
+    "age_restricted": false
+  },
+  {
+    "name": "NBA 2K22",
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3fdm.png",
+    "description": "Step onto the court and showcase your basketball skills in the most realistic basketball simulation game.",
+    "genre": "Sports",
+    "return_days": 7,
+    "rating": 4.7,
+    "copies": 8,
+    "age_restricted": false
+  },
+  {
+    "name": "Mario Tennis Aces",
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1tfw.png",
+    "description": "Join Mario and his friends in exciting tennis matches filled with power-ups, special moves, and multiplayer fun.",
+    "genre": "Sports",
+    "return_days": 5,
+    "rating": 4.5,
+    "copies": 12,
+    "age_restricted": false
+  },
+  {
+    "name": "Mortal Kombat 11",
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co20mh.png",
+    "description": "Unleash powerful martial arts moves and fatalities in this brutal fighting game featuring iconic characters.",
+    "genre": "Combat",
+    "return_days": 5,
+    "rating": 4.6,
+    "copies": 12,
+    "age_restricted": true
+  },
+  {
+    "name": "Battlefield 2042",
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co38x1.png",
+    "description": "Experience large-scale warfare in the near-future with dynamic environments and intense multiplayer battles.",
+    "genre": "Combat",
+    "return_days": 7,
+    "rating": 4.0,
+    "copies": 8,
+    "age_restricted": true
+  },
+  {
+    "name": "The Legend of Zelda",
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3p2d.png",
+    "description": "Embark on an epic adventure in the vast open world of Hyrule, solving puzzles and battling enemies to rescue Princess Zelda.",
+    "genre": "Adventure",
+    "return_days": 7,
+    "rating": 5.0,
+    "copies": 10,
+    "age_restricted": false
+  },
+  {
+    "name": "Tomb Raider",
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rbu.png",
+    "description": "Step into the shoes of Lara Croft, a fearless explorer, as she uncovers ancient mysteries and overcomes challenging obstacles.",
+    "genre": "Adventure",
+    "return_days": 5,
+    "rating": 4.7,
+    "copies": 12,
+    "age_restricted": false
+  },
+  {
+    "name": "Forza Horizon 4",
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2e1a.png",
+    "description": "Immerse yourself in a dynamic open-world racing experience, exploring beautiful landscapes and participating in thrilling races and challenges.",
+    "genre": "Racing",
+    "return_days": 7,
+    "rating": 3.4,
+    "copies": 8,
+    "age_restricted": false
+  },
+  {
+    "name": "Dirt Rally 2.0",
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1sro.png",
+    "description": "Take on the most challenging rally stages around the world, testing your driving abilities and conquering treacherous terrains.",
+    "genre": "Racing",
+    "return_days": 3,
+    "rating": 4.3,
+    "copies": 2,
+    "age_restricted": false
+  },  
+  {
+    "name": "Burnout Paradise",
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co28r3.png",
+    "description": "Experience high-octane, adrenaline-fueled races and epic crashes in an open-world paradise where the streets are your playground.",
+    "genre": "Racing",
+    "return_days": 5,
+    "rating": 4.1,
+    "copies": 3,
+    "age_restricted": false
+  },
+  {
+    "name": "Math Mania",
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/sgaxkpz1qm7runorsix8.png",
+    "description": "Embark on an exciting math adventure, solving puzzles and equations to improve your mathematical skills and knowledge.",
+    "genre": "Educational",
+    "return_days": 7,
+    "rating": 4.0,
+    "copies": 3,
+    "age_restricted": false
+  },
+  {
+    "name": "Aperture Science DS",
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3m98.png",
+    "description": "Discover the wonders of science through interactive experiments, engaging activities, and captivating educational content.",
+    "genre": "Educational",
+    "return_days": 6,
+    "rating": 3.0,
+    "copies": 4,
+    "age_restricted": false
+  },  
+  {
+    "name": "Farm Life",
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4641.png",
+    "description": "Step into the shoes of a farmer and manage your own farm, cultivating crops, raising animals, and experiencing the joys and challenges of rural life.",
+    "genre": "Simulation",
+    "return_days": 6,
+    "rating": 4.2,
+    "copies": 4,
+    "age_restricted": false
+  },
+  {
+    "name": "City Builder",
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4ag0.png",
+    "description": "Build and manage your own virtual city, making strategic decisions to ensure its growth, development, and prosperity.",
+    "genre": "Simulation",
+    "return_days": 7,
+    "rating": 4.3,
+    "copies": 5,
+    "age_restricted": false
+  },
+  {
+    "name": "Lost Kingdoms",
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co30si.png",
+    "description": "Uncover the secrets of a lost kingdom as you battle formidable enemies, level up your character, and unlock powerful abilities and weapons.",
+    "genre": "RPG",
+    "return_days": 5,
+    "rating": 3.7,
+    "copies": 3,
+    "age_restricted": false
+  },
+  {
+    "name": "Dark Legends",
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/gdiq440g2kpogw407vyi.png",
+    "description": "Immerse yourself in a dark and immersive world filled with dark forces, ancient prophecies, and intense battles as you fight to save the realm.",
+    "genre": "RPG",
+    "return_days": 6,
+    "rating": 4.2,
+    "copies": 4,
+    "age_restricted": false
+  }
 ]
